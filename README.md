@@ -32,3 +32,4 @@
     
     Le fichier .h5 contenant le modèle entraîné est disponible en téléchargement ici :
 
+https://drive.google.com/file/d/1fOBjp2VSxxTAvIbyVGY0ET1vtie-8LWK/view?usp=sharing
